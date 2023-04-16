@@ -16,6 +16,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
+          <h1>PIAIC CNC UIT</h1>
           <p>
             Get started by editing&nbsp;
             <code className={styles.code}>src/pages/index.js</code>
